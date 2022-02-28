@@ -6,9 +6,13 @@ But my big love is ReactJS and everything related to ReactJS (Formik, NEXTJS, Ma
 
 ## Skills and experience
 
-![react](https://user-images.githubusercontent.com/18114877/156031565-0a1ce719-1a1e-46d0-9d9c-a283918cada5.png)
+![react](https://user-images.githubusercontent.com/18114877/156031565-0a1ce719-1a1e-46d0-9d9c-a283918cada5.png) REACT
+![js](https://user-images.githubusercontent.com/18114877/156031709-38d211ff-7c6e-4d83-8b06-5ecbe000b138.png) JavaScript
+![html](https://user-images.githubusercontent.com/18114877/156031857-dcc11456-dba3-4955-ae85-3296ca857741.png) HTML
+![css-3](https://user-images.githubusercontent.com/18114877/156031933-c3726d1a-1ada-4fa7-a5de-4732d363b80e.png) CSS
 
-REACT / JS / HTML / CSS
+
+
 
 - 📫 How to reach me: ivica.ivancic007@gmail.com 
 
