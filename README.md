@@ -5,6 +5,9 @@ I really enjoy learning languages and new technologies!
 But my big love is ReactJS and everything related to ReactJS (Formik, NEXTJS, Material UI, REDUX, Context API,React Router, etc...)
 
 ## Skills and experience
+
+![react](https://user-images.githubusercontent.com/18114877/156031565-0a1ce719-1a1e-46d0-9d9c-a283918cada5.png)
+
 REACT / JS / HTML / CSS
 
 - 📫 How to reach me: ivica.ivancic007@gmail.com 
