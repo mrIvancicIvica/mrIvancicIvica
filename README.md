@@ -4,7 +4,8 @@ I'm Ivica Ivancic from Split.
 I really enjoy learning languages and new technologies! 
 But my big love is ReactJS and everything related to ReactJS (Formik, NEXTJS, Material UI, REDUX, Context API,React Router, etc...)
 
-Skills: REACT / JS / HTML / CSS
+## Skills and experience
+REACT / JS / HTML / CSS
 
 - 📫 How to reach me: ivica.ivancic007@gmail.com 
 
