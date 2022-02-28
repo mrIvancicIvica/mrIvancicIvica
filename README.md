@@ -1,7 +1,9 @@
 ### Hi there 👋, Ivica Ivančić
 #### I am ReactJS developer 
-I'm Ivica Ivancic from Split. 
+I'm Ivica Ivancic from Split.
+
 I really enjoy learning languages and new technologies! 
+
 But my big love is ReactJS and everything related to ReactJS (Formik, NEXTJS, Material UI, REDUX, Context API,React Router, etc...)
 
 ## Skills and experience
