@@ -9,13 +9,15 @@
 ###
 <div align="center">I'm Ivica Ivančić, a ReactJS developer</div>
 
-- 🖥️ My portofolio: https://mrivicaivancicportofolio.netlify.app/ 
+ - 🖥️ My portofolio: https://mrivicaivancicportofolio.netlify.app/ 
 
  - 🔭 I’m currently freelance 
  
  - 🌱 I’m currently learning NextJS 
  
  - ⚡ Fun fact: I really enjoy learning languages and new technologies!
+ 
+ - 🔗 Last project: https://github.com/mrIvancicIvica/shopingCart
 
 <br />
 
