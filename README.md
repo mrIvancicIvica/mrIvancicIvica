@@ -13,7 +13,7 @@
 
  - 🔭 I’m currently freelance 
  
- - 🌱 I’m currently learning NextJS 
+ - 🌱 I’m now learning NextJS 
  
  - ⚡ Fun fact: I really enjoy learning languages and new technologies!
  
