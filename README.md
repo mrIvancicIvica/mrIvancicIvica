@@ -108,7 +108,7 @@
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.icons8.com/color/48/000000/material-ui.png"
+      src="https://img.icons8.com/color/96/000000/material-ui.png"
       alt="materialui"
       width="40"
       height="40"
