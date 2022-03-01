@@ -7,7 +7,7 @@
 </div>
 
 ###
-<div align="center">I'm Ivica Ivančić, a ReactJS developer</div>
+<div align="center">I'm Ivica Ivančić, a passion ReactJS developer</div>
 
  - 🖥️ My portofolio: https://mrivicaivancicportofolio.netlify.app/ 
 
@@ -134,6 +134,8 @@
   </a>
 </p>
 <br />
+
+
 ## How to reach me
 <div align="center">
   <a href="https://github.com/mrIvancicIvica" target="_blank">
@@ -147,7 +149,9 @@
     alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
+
 <br />
+
 ## Github Stats
 <div align="center">
   <img
