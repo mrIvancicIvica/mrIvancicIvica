@@ -124,11 +124,6 @@
       height="40"
     />
   </a>
-
-
- 
- 
- 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -137,15 +132,8 @@
       height="40"
     />
   </a>
-
- 
- 
- 
- 
 </p>
-
 <br />
-
 ## How to reach me
 <div align="center">
   <a href="https://github.com/mrIvancicIvica" target="_blank">
@@ -159,9 +147,7 @@
     alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
-
 <br />
-
 ## Github Stats
 <div align="center">
   <img
@@ -169,5 +155,3 @@
     align="center"
   />
 </div>
-
-
