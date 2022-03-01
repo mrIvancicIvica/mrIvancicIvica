@@ -34,7 +34,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td>
+  
+  <td valign="top" width="50%">
 
 
 
@@ -46,11 +48,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td>
+  
+  
 
 <br/>  
 
