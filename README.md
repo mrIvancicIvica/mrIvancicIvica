@@ -17,7 +17,16 @@
  
  - ⚡ Fun fact: I really enjoy learning languages and new technologies!
  
- - 🔗 Last project: https://github.com/mrIvancicIvica/shopingCart
+ - 🔗 Last project's: 
+ - https://github.com/mrIvancicIvica/LogInForm  
+ - https://github.com/mrIvancicIvica/shopingCart
+ - https://github.com/mrIvancicIvica/MobXCars
+ - https://github.com/mrIvancicIvica/Cars
+ - https://github.com/mrIvancicIvica/nextjs_news
+ - https://github.com/mrIvancicIvica/covid19
+ - https://github.com/mrIvancicIvica/Speed-typing-game-withCustom-hooks--React
+ - https://github.com/mrIvancicIvica/CarListReduxToolkit
+ - https://github.com/mrIvancicIvica/NBA-App         
 
 <br />
 
