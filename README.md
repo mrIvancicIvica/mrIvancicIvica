@@ -17,7 +17,7 @@
  
  - ⚡ Fun fact: I really enjoy learning languages and new technologies!
  
- - 🔗 Last project's: 
+ - 🔗 Projects I would like to highlighted: 
  - https://github.com/mrIvancicIvica/LogInForm  
  - https://github.com/mrIvancicIvica/shopingCart
  - https://github.com/mrIvancicIvica/MobXCars
