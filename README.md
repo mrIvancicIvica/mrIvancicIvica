@@ -10,6 +10,7 @@
 <div align="center">I'm Ivica Ivančić, a passion ReactJS developer</div>
 
  - 🖥️ My portofolio: https://mrivicaivancicportofolio.netlify.app/ 
+ - 🖥️ My portofolio: https://mrivancicivica.github.io/newPortofolio/ 
 
  - 🔭 I’m currently freelance 
  
