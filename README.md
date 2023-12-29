@@ -23,7 +23,6 @@
  - https://github.com/mrIvancicIvica/shopingCart
  - https://github.com/mrIvancicIvica/MobXCars
  - https://github.com/mrIvancicIvica/Cars
- - https://github.com/mrIvancicIvica/nextjs_news
  - https://github.com/mrIvancicIvica/covid19
  - https://github.com/mrIvancicIvica/Speed-typing-game-withCustom-hooks--React
  - https://github.com/mrIvancicIvica/CarListReduxToolkit
